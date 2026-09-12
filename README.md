@@ -2,51 +2,68 @@
 
 
 
-# [Project Name] 🎯
+# [sambar ratio calculator] 🎯
+
+link####################  https://chor-lab.vercel.app/
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [lama]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [amal mathews] - [SJCET]
+- Member 2: [afthab anwar] - [SJCET]
 
-### Project Description
-[2-3 lines about what your project does]
+# CHOR MIXING LAB
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+### Team Members
+- Amal Mathews
+- Afthab
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+## Project Description
+
+CHOR MIXING LAB is an interactive web application that calculates the ideal amount of sambar required for a given quantity of rice based on the user's preferred consistency. It also provides a humorous construction-material simulation where materials such as cement, tar, sand and gravel are analyzed using fictional engineering parameters.
+
+## The Problem (that doesn't exist)
+
+People have been mixing rice and sambar for generations without a standardized system to determine the "perfect" amount of sambar. At the same time, nobody has ever determined whether construction materials can be subjected to the same unnecessarily detailed analysis.
+
+## The Solution (that nobody asked for)
+
+CHOR MIXING LAB solves this extremely unnecessary problem by calculating simulated sambar-to-rice ratios and providing an animated mixing simulation. Users can choose between PERFECT and SOGGY consistency, enter their rice quantity, and receive a recommended quantity of sambar.
+
+For the SPECIALS mode, users can select materials such as cement, tar, sand, gravel and para podi, choose their consistency, and watch an animated construction-material mixing simulation with completely unnecessary engineering analysis.
 
 ## Technical Details
+
 ### Technologies/Components Used
+
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
+- TypeScript / JavaScript
+- React
+- Vite
+- Tailwind CSS
+- Lucide React Icons
+- CSS / SVG animations
+- Browser-based state management
+- Lovable for AI-assisted development
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
-### Implementation
-For Software:
-# Installation
-[commands]
+- Laptop/Desktop computer
+- No additional hardware required
+- Webcam is optional for future expansion
 
-# Run
-[commands]
+## Implementation
 
-### Project Documentation
 For Software:
 
+### Installation
+
+```bash
+npm install
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
@@ -89,14 +106,14 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [amal]: [front end]
+- [afthab]: [back end]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--26-26?link=https%3A%2F%2Ftinkerhub.org%2Fevents%2F1M8ORET9A1%2Fuseless-projects-3.0)
+
 
 
